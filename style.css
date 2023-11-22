@@ -95,6 +95,7 @@ ul{
 }
 .search-bar{
     display: flex;
+    outlined:none;
 }
 .Main{
     /* border-top: 12px solid #f1f1f1; */
