@@ -93,9 +93,11 @@ ul{
     padding: 10px;
     border-radius: 0px 10px 10px 0px
 }
+.search-bar: focus{
+        outlined:none;
+}
 .search-bar{
     display: flex;
-    outlined:none;
 }
 .Main{
     /* border-top: 12px solid #f1f1f1; */
